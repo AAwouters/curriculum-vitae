@@ -4,6 +4,7 @@
 - <awouters.andreas@gmail.com>
 - %PhoneNumber%
 - [linked.in](https://www.linkedin.com/in/awoutersandreas/)
+- [github](https://github.com/AAwouters)
 
 
 ## Profile
@@ -13,6 +14,10 @@ Computer Science student with a passion for [RustLang](https://www.rust-lang.org
 ## Education
 ### Master of Engineering: Computer Science 2020 - 2023
 #### Human-Computer Interaction
+
+master's thesis: Homeomorphically irreducible spanning trees in planar graphs
+ - histg: C program to determine all HISTs of a graph
+ - graphdrs: Rust tool to draw graphs and visualise the HISTs of that graph
 
 ### Bachelor of Science: Informatics 2017 - 2020
 
