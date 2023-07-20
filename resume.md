@@ -8,7 +8,7 @@
 
 
 ## Profile
-Computer Science student with a passion for [RustLang](https://www.rust-lang.org/) and computer graphics.
+Computer Science graduate with a passion for [RustLang](https://www.rust-lang.org/) and computer graphics.
 
 
 ## Education
