@@ -1,6 +1,6 @@
 # Andreas Awouters
 
-- Kessel-Lo, Belgium
+- Boom, Belgium
 - <awouters.andreas@gmail.com>
 - %PhoneNumber%
 - [linked.in](https://www.linkedin.com/in/awoutersandreas/)
@@ -12,17 +12,24 @@ Computer Science graduate with a passion for [RustLang](https://www.rust-lang.or
 
 
 ## Education
-### Master of Engineering: Computer Science 2020 - 2023
+### [KULeuven](https://www.kuleuven.be/english/kuleuven/): Master of Engineering: [Computer Science](https://eng.kuleuven.be/en/study/masters/master-of-engineering-computer-science/master-computer-science) 2020 - 2023
 #### Human-Computer Interaction
 
 master's thesis: Homeomorphically irreducible spanning trees in planar graphs
  - histg: C program to determine all HISTs of a graph
  - graphdrs: Rust tool to draw graphs and visualise the HISTs of that graph
 
-### Bachelor of Science: Informatics 2017 - 2020
+### [KULeuven](https://www.kuleuven.be/english/kuleuven/): Bachelor of Science: Informatics 2017 - 2020
 
 
 ## Work Experience
+### [Atmire](https://www.atmire.com/)
+#### Software Developer; september 2023 - present
+- [DSpace](https://dspace.org/) Digital Repository development
+- Java (Spring) REST backend development
+- Typescript (Angular) frontend development
+- Unix server deployment & management
+
 ### [THEO Technologies](https://www.theoplayer.com/)
 #### Internship Software Engineering; september 2022 - april 2023
  - Implemented a panorama/3D video viewer for the browser using the [WebXR Device API](https://immersiveweb.dev/)
@@ -42,6 +49,6 @@ master's thesis: Homeomorphically irreducible spanning trees in planar graphs
 ## Skills
 **Languages**: Dutch - Native, English - Proficient, French - Basic
 
-**Progamming Languages**: Rust, Type/Javascript, C/C++, Python, Java
+**Progamming Languages**: Java, Type/Javascript, Rust,  C, C++, Python
 
-**Tools**: Git, VSC, JetBrains IDEs
+**Tools**: Git, VSC, JetBrains IDEs, Bash, Unix CLI
