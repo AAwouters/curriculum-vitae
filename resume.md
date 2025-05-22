@@ -24,11 +24,20 @@ master's thesis: Homeomorphically irreducible spanning trees in planar graphs
 
 ## Work Experience
 ### [Atmire](https://www.atmire.com/)
-#### Software Developer; september 2023 - present
 - [DSpace](https://dspace.org/) Digital Repository development
 - Java (Spring) REST backend development
+- PostgreSQL database
 - Typescript (Angular) frontend development
 - Unix server deployment & management
+
+#### Project Engineer; may 2025 - present
+- Design of small to medium sized work packages
+- Delegation & review of developer work
+- Implementaion of complicated work packages
+
+#### Software Developer; september 2023 - april 2025
+- Implementation of small to medium sized work packages
+- Training & assistance for junior developers
 
 ### [THEO Technologies](https://www.theoplayer.com/)
 #### Internship Software Engineering; september 2022 - april 2023
